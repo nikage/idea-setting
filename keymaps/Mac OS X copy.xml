@@ -1,5 +1,12 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
 </keymap>
