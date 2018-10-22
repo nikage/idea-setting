@@ -3,8 +3,16 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <mouse-shortcut keystroke="alt button1" />
   </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+    <mouse-shortcut keystroke="meta alt button1" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
   </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
