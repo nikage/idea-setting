@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="325c8f456729b912b0d2134054eb7448-dfeeb2271cc2857eb0a45a5003c8bbee" type="PLAIN_TEXT" />
+      <mapping ext="mat" type="PLAIN_TEXT" />
       <mapping ext="rtf" type="PLAIN_TEXT" />
       <mapping ext="sccs" type="SCSS" />
     </extensionMap>
