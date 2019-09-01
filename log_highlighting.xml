@@ -16,5 +16,7 @@
     </parsing>
     <settingsVersion>4</settingsVersion>
     <lastAddedDefaultFormat>3</lastAddedDefaultFormat>
+    <errorStripeModel>normal</errorStripeModel>
+    <highlight_links>false</highlight_links>
   </component>
 </application>
