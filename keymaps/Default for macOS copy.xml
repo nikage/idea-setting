@@ -8,4 +8,8 @@
     <keyboard-shortcut first-keystroke="shift meta 9" />
     <mouse-shortcut keystroke="meta alt button1" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
 </keymap>
