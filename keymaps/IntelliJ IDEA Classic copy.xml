@@ -2,4 +2,11 @@
   <action id="ActivateTerminalToolWindow">
     <mouse-shortcut keystroke="shift button1" />
   </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSplitLine" />
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="ViewSource" />
 </keymap>
