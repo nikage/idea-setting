@@ -1,6 +1,11 @@
 <keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
   <action id="ActivateTerminalToolWindow">
-    <mouse-shortcut keystroke="shift button1" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+    <mouse-shortcut keystroke="meta alt button1" />
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
