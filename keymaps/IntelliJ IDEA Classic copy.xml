@@ -5,7 +5,7 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
     <keyboard-shortcut first-keystroke="shift meta 9" />
-    <mouse-shortcut keystroke="meta alt button1" />
+    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
