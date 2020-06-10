@@ -8,14 +8,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1591774796246">
+      <file name="/Dummy.txt" timestamp="1591776336855">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1591776387887">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/inference-refactored" timestamp="1591776358817">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/img2text/model.py" timestamp="1591776046388">
+        <mark key="[" line="75" column="50" />
+        <mark key="]" line="75" column="52" />
+        <mark key="." line="75" column="52" />
       </file>
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>0].</text>
+      </register>
+      <register name="-" type="4">
+        <text>0].</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
