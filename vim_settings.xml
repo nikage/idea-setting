@@ -11,7 +11,7 @@
       <file name="/Dummy.txt" timestamp="1591776336855">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1591776387887">
+      <file name="/Python Console" timestamp="1591906253205">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/inference-refactored" timestamp="1591776358817">
@@ -20,21 +20,38 @@
       <file name="/fragment.py" timestamp="1591780099934">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/img2text/model.py" timestamp="1591776046388">
-        <mark key="[" line="75" column="50" />
-        <mark key="]" line="75" column="52" />
-        <mark key="." line="75" column="52" />
+      <file name="$USER_HOME$/projects/img2text/inference-refactored.py" timestamp="1591907172376">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="89" column="20" />
+        <mark key="]" line="89" column="20" />
+        <mark key="^" line="90" column="33" />
+        <mark key="." line="89" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/img2text/inference.py" timestamp="1591906808763" />
+      <file name="$USER_HOME$/projects/img2text/model.py" timestamp="1591906330690">
+        <mark key="[" line="75" column="45" />
+        <mark key="]" line="75" column="45" />
+        <mark key="." line="75" column="45" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="60" column="4" filename="$USER_HOME$/projects/img2text/inference-refactored.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/projects/img2text/inference-refactored.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/projects/img2text/inference-refactored.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/projects/img2text/inference-refactored.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/projects/img2text/inference-refactored.py" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="0" type="4">
+        <text>clean_sentence(</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>0].</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>0].</text>
+        <text>test</text>
       </register>
     </registers>
   </component>
