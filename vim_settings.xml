@@ -3,7 +3,11 @@
     <editor />
   </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
@@ -27,11 +31,19 @@
         <mark key="^" line="90" column="33" />
         <mark key="." line="89" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/img2text/inference.py" timestamp="1591906808763" />
+      <file name="$USER_HOME$/projects/img2text/vocabulary.py" timestamp="1592063900648" />
       <file name="$USER_HOME$/projects/img2text/model.py" timestamp="1591906330690">
         <mark key="[" line="75" column="45" />
         <mark key="]" line="75" column="45" />
         <mark key="." line="75" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/img2text/CMakeLists.txt" timestamp="1592064490386" />
+      <file name="$USER_HOME$/projects/img2text/pickle-example.py" timestamp="1592064801043">
+        <mark key="'" line="27" column="36" />
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="27" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -40,6 +52,8 @@
       <jump line="74" column="0" filename="$USER_HOME$/projects/img2text/inference-refactored.py" />
       <jump line="76" column="0" filename="$USER_HOME$/projects/img2text/inference-refactored.py" />
       <jump line="86" column="0" filename="$USER_HOME$/projects/img2text/inference-refactored.py" />
+      <jump line="6" column="3" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="27" column="36" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -47,11 +61,14 @@
       <register name="0" type="4">
         <text>clean_sentence(</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHNlbGYuaWR4MndvcmQgPSB2b2NhYi5pZHgyd29yZAo=</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>word2idx</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>word2idx</text>
       </register>
     </registers>
   </component>
