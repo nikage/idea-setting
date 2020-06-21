@@ -128,5 +128,6 @@
       <artifact name="Vertica" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="java.sql.Driver" name="java.sql.Driver" driver-class="java.sql.Driver" />
   </component>
 </application>
