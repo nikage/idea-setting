@@ -8,4 +8,7 @@
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="EditorAddOrRemoveCaret" />
+  <action id="Vcs.Show.Local.Changes">
+    <mouse-shortcut keystroke="meta alt button1" />
+  </action>
 </keymap>
