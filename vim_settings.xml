@@ -1,0 +1,163 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>sql</entry>
+        <entry>crea</entry>
+      </history-search>
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1592078547955">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1592078596092">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/inference-refactored" timestamp="1591776358817">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1591780099934">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/img2text/inference-refactored.py" timestamp="1591907360778">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="89" column="20" />
+        <mark key="]" line="89" column="20" />
+        <mark key="^" line="90" column="33" />
+        <mark key="." line="89" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/img2text/vocabulary.py" timestamp="1592063900648" />
+      <file name="$USER_HOME$/projects/img2text/model.py" timestamp="1591906330690">
+        <mark key="[" line="75" column="45" />
+        <mark key="]" line="75" column="45" />
+        <mark key="." line="75" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/img2text/CMakeLists.txt" timestamp="1592064490386" />
+      <file name="$USER_HOME$/projects/img2text/pickle-example.py" timestamp="1592083656729">
+        <mark key="'" line="31" column="8" />
+        <mark key="[" line="49" column="16" />
+        <mark key="]" line="28" column="4" />
+        <mark key="n" line="21" column="19" />
+        <mark key="^" line="40" column="9" />
+        <mark key="." line="28" column="4" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="60" column="4" filename="$USER_HOME$/projects/img2text/inference-refactored.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/projects/img2text/inference-refactored.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/projects/img2text/inference-refactored.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/projects/img2text/inference-refactored.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/projects/img2text/inference-refactored.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="16" column="14" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="17" column="15" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="25" column="18" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="32" column="23" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="37" column="30" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="1" column="7" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="6" column="4" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="35" column="23" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="47" column="34" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="49" column="16" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="38" column="3" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+      <jump line="33" column="8" filename="$USER_HOME$/projects/img2text/pickle-example.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIGlmIGNvbm4gaXMgbm90IE5vbmU6CiAgICAgICAgY29ubi5jbG9zZSgpCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>wreate_table</text>
+      </register>
+      <register name="/" type="4">
+        <text>crea</text>
+      </register>
+      <register name="0" type="4">
+        <text>sql_create_projects_table)</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGlmIGNvbm4gaXMgbm90IE5vbmU6CiAgICAgICAgY29ubi5jbG9zZSgpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNyZWF0ZV9jb25uZWN0aW9uKHIiZGIvdm9jYWIuZGIiKQo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgIyBjcmVhdGUgdGFza3MgdGFibGUKICAgICAgICBjcmVhdGVfdGFibGUoY29ubiwgc3FsX2NyZWF0ZV90YXNrc190YWJsZSk=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgIyBjcmVhdGUgdGFza3MgdGFibGUKICAgICAgICBjcmVhdGVfdGFibGUoY29ubiwgc3FsX2NyZWF0ZV90YXNrc190YWJsZSkKIA==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CmltcG9ydCBzcWxpdGUzCmZyb20gc3FsaXRlMyBpbXBvcnQgRXJyb3IKCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbm4gPSBjcmVhdGVfY29ubmVjdGlvbihkYXRhYmFzZSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>crea</last-search>
+      <last-offset />
+      <last-pattern>crea</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
