@@ -1,14 +1,19 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <mouse-shortcut keystroke="alt button1" />
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="CompareClipboardWithSelection">
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorAddOrRemoveCaret" />
@@ -17,6 +22,10 @@
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift meta 8" />
+    <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="FileChooser.GotoProject" />
   <action id="Vcs.Show.Local.Changes">
