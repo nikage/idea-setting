@@ -6,6 +6,8 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gpx" type="XML" />
+      <mapping ext="xcscheme" type="XML" />
     </extensionMap>
   </component>
 </application>
