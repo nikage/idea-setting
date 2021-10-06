@@ -12,6 +12,9 @@
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
