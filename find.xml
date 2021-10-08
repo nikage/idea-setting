@@ -17,5 +17,6 @@
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.sh</mask>
+    <mask>*.swift</mask>
   </component>
 </application>
