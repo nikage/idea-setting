@@ -5,7 +5,6 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -16,12 +15,12 @@
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.html</mask>
     <mask>*.tsx</mask>
     <mask>*.sh</mask>
     <mask>*.swift</mask>
     <mask>*.ts</mask>
     <mask>!*.ts</mask>
     <mask>*.py</mask>
+    <mask>*.html</mask>
   </component>
 </application>
