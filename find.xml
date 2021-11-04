@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="Makefile" />
+    <option name="FILE_MASK" value="*.makefile" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -22,5 +22,6 @@
     <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>Makefile</mask>
+    <mask>*.makefile</mask>
   </component>
 </application>
