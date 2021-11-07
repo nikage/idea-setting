@@ -13,9 +13,12 @@
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.html</mask>
-    <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.sh</mask>
+    <mask>*.swift</mask>
+    <mask>!*.ts</mask>
+    <mask>*.py</mask>
+    <mask>*.html</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
