@@ -1,17 +1,27 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="customScope" value="LIve Fix" />
+    <option name="defaultScopeName" value="LIve Fix" />
+    <option name="SEARCH_SCOPE" value="LIve Fix" />
     <mask>*.xml</mask>
-    <mask>*.jsp</mask>
-    <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.css</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.ng</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.ats</mask>
+    <mask>*.cjs</mask>
+    <mask>*.sh</mask>
+    <mask>*.swift</mask>
+    <mask>!*.ts</mask>
     <mask>*.html</mask>
-    <mask>*.scss</mask>
+    <mask>Makefile</mask>
+    <mask>*.makefile</mask>
+    <mask>*.js</mask>
     <mask>*.json</mask>
+    <mask>*.py</mask>
     <mask>*.ts</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>

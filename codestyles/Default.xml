@@ -1,8 +1,1 @@
-<code_scheme name="Default" version="173">
-  <TypeScriptCodeStyleSettings version="0">
-    <option name="PREFER_AS_TYPE_CAST" value="true" />
-    <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="FORCE_QUOTE_STYlE" value="true" />
-    <option name="SPACES_WITHIN_IMPORTS" value="true" />
-  </TypeScriptCodeStyleSettings>
-</code_scheme>
+<code_scheme name="Default" version="173" />
