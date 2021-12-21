@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="LIve Fix" />
+    <option name="defaultScopeName" value="LIve Fix" />
+    <option name="SEARCH_SCOPE" value="LIve Fix" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -21,7 +21,7 @@
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.py</mask>
-    <mask>*.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
