@@ -17,11 +17,11 @@
     <mask>!*.ts</mask>
     <mask>*.html</mask>
     <mask>Makefile</mask>
-    <mask>*.makefile</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.py</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*.makefile</mask>
   </component>
 </application>
