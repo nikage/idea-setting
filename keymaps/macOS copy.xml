@@ -10,10 +10,13 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
     <mouse-shortcut keystroke="control button1" />
-    <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta k" />
+    <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="alt d" />
