@@ -1,8 +1,9 @@
 <application>
-  <component name="NotificationConfiguration" showBalloons="false">
+  <component name="NotificationConfiguration">
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="Module Manager" displayType="NONE" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" playSound="true" />
   </component>
 </application>
