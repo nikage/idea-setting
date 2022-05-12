@@ -1,0 +1,8 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="/opt/homebrew/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.18.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.22.7/bin/node" />
+    <local-interpreter path="$USER_HOME$/projects/workflowy/Workflowy/packaged_apps/desktop/node_modules/.bin/electron" />
+  </component>
+</application>

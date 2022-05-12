@@ -1,0 +1,28 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R58R84JMN3Z" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="54.87.143.197:5555" />
+          </Key>
+        </key>
+        <name value=" Genymotion 'Phone' version" />
+        <target value="Android 7.0" />
+        <api value="24" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
