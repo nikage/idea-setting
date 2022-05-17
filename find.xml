@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…/plugins/CarlaBase/carla/source/modules/audio_decoder'" />
-    <option name="defaultScopeName" value="Directory '…/plugins/CarlaBase/carla/source/modules/audio_decoder'" />
-    <option name="SEARCH_SCOPE" value="Directory '…/plugins/CarlaBase/carla/source/modules/audio_decoder'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
