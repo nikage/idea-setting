@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
@@ -18,10 +20,10 @@
     <mask>*.html</mask>
     <mask>Makefile</mask>
     <mask>*.json</mask>
+    <mask>*.py</mask>
     <mask>*.makefile</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
-    <mask>*.py</mask>
   </component>
 </application>
