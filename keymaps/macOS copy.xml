@@ -31,6 +31,9 @@
     <keyboard-shortcut first-keystroke="shift meta 8" />
     <mouse-shortcut keystroke="alt button1" />
   </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
   <action id="FileChooser.GotoProject" />
   <action id="Vcs.Show.Local.Changes">
     <mouse-shortcut keystroke="meta alt button1" />
