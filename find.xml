@@ -19,10 +19,10 @@
     <mask>Makefile</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
-    <mask>*.tsx</mask>
-    <mask>*.ts</mask>
     <mask>*.md</mask>
     <mask>*.py</mask>
     <mask>*.makefile</mask>
+    <mask>*.tsx</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
