@@ -21,8 +21,8 @@
     <mask>*.js</mask>
     <mask>*.md</mask>
     <mask>*.py</mask>
-    <mask>*.makefile</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*.makefile</mask>
   </component>
 </application>
