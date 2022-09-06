@@ -18,10 +18,12 @@
     <mask>*.html</mask>
     <mask>Makefile</mask>
     <mask>*.json</mask>
-    <mask>*.py</mask>
-    <mask>*.makefile</mask>
     <mask>*.js</mask>
+    <mask>*.md</mask>
+    <mask>*.py</mask>
     <mask>*.ts</mask>
+    <mask>*.makefile</mask>
     <mask>*.tsx</mask>
+    <mask>*.t</mask>
   </component>
 </application>
