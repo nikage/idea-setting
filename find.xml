@@ -3,6 +3,7 @@
     <option name="customScope" value="Changes" />
     <option name="defaultScopeName" value="Changes" />
     <option name="SEARCH_SCOPE" value="Changes" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -23,7 +24,7 @@
     <mask>*.py</mask>
     <mask>*.ts</mask>
     <mask>*.makefile</mask>
-    <mask>*.tsx</mask>
     <mask>*.t</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
