@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="apple_app_site_association" type="JSON" />
+      <mapping ext="makefile" type="Makefile" />
       <mapping pattern=".keystore" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="pcm" type="PLAIN_TEXT" />
@@ -13,7 +14,6 @@
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="makefile" type="Makefile" />
     </extensionMap>
   </component>
 </application>
