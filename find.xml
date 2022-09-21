@@ -22,8 +22,8 @@
     <mask>*.md</mask>
     <mask>*.py</mask>
     <mask>*.t</mask>
-    <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*.makefile</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
