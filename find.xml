@@ -3,6 +3,7 @@
     <option name="customScope" value="Changes" />
     <option name="defaultScopeName" value="Changes" />
     <option name="SEARCH_SCOPE" value="Changes" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -20,10 +21,10 @@
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.md</mask>
-    <mask>*.py</mask>
     <mask>*.t</mask>
     <mask>*.makefile</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*.py</mask>
   </component>
 </application>
