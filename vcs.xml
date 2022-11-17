@@ -21,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/projects/workflowy/Workflowy/development/@experimental" />
+  </component>
   <component name="VcsEditorTab.Settings">
     <option name="openInNewWindow" value="true" />
   </component>
